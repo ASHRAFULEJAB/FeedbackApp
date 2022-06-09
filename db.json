@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": " This is the feedback item 1 coming from the backend"
+    },
+    {
+      "id": 2,
+      "rating": 9,
+      "text": " This is the feedback item 2 coming from the backend"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": " This is the feedback item 3 coming from the backend"
+    },
+    {
+      "text": "This is Ashraful Islam Khan who is learning Reacttt",
+      "rating": 3,
+      "id": 4
+    }
+  ]
+}
